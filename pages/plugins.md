@@ -121,3 +121,15 @@ please report it on GitHub (link in plugin card).
     docsUrl="/plugins/devlogging"
     ratingIssueNr="139"
 %}
+
+{% include pluginCard.html
+    title="JavalinVite"
+    description="
+    This plugin allows you to build SPA with Vue or Svelte as frontend library, Javalin as backend server and Vite as dev server.
+    This means you can use any npm library, get hot reloading during development and one-click production packaging.
+    "
+    bundled="false"
+    author="ClemensElflein"
+    docsUrl="/plugins/javalinvite"
+    ratingIssueNr="183"
+%}
