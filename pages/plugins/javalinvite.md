@@ -2,7 +2,7 @@
 layout: default
 title: JavalinVue Plugin
 rightmenu: true
-permalink: /plugins/javalinvue
+permalink: /plugins/javalinvite
 ---
 
 <div id="spy-nav" class="right-menu" markdown="1">
